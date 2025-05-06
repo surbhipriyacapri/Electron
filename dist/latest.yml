@@ -1,0 +1,8 @@
+version: 1.0.2
+files:
+  - url: auto-update-app-Setup-1.0.2.exe
+    sha512: uXKu2IRFj9Ko1oizgckTj/h3YbgkEFqTNaMEzDAcXlfXwo0RH2t4+k7mMIK9B5XTcCK5ShxI5F3+MUozg4HPhA==
+    size: 86277404
+path: auto-update-app-Setup-1.0.2.exe
+sha512: uXKu2IRFj9Ko1oizgckTj/h3YbgkEFqTNaMEzDAcXlfXwo0RH2t4+k7mMIK9B5XTcCK5ShxI5F3+MUozg4HPhA==
+releaseDate: '2025-05-06T12:42:50.222Z'
